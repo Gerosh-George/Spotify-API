@@ -8,7 +8,7 @@ https://developer.spotify.com/documentation/web-api/
 
 ## Things to do to get started
 
-To use the above code you will have to register your app in Spotify Dashboard - https://developer.spotify.com/dashboard/applications.
+To use the above code you will have to register your app in Spotify Dashboard : https://developer.spotify.com/dashboard/applications.
 
 - On registering your app you will get a Client Id.
 - You should also provide a redirect link while registering your app. 
